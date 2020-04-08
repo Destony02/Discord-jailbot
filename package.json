@@ -1,0 +1,23 @@
+{
+  "name": "Discord-jailbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Discord-jailbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Destony02/Discord-jailbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Destony02/Discord-jailbot/issues"
+  },
+  "homepage": "https://github.com/Destony02/Discord-jailbot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
